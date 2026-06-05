@@ -96,7 +96,7 @@ a:hover{
 &nbsp;&nbsp; • รองรับโปรเจกต์ขนาดเล็กไปจนถึงขนาดใหญ่<br>
 
   <li>ตัวอย่าง Framework ที่นิยมใช้ <br>
-<table border="1">
+<table><font color="black">
   <tr>
     <th>ภาษา</th>
     <th>Framework</th>
