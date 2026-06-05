@@ -103,8 +103,8 @@ a:hover{
   <li>ตัวอย่าง Framework ที่นิยมใช้ </li>
 <table>
   <tr>
-    <th>ภาษา</font></th>
-    <th>Framework</table></th>
+    <th>ภาษา</th>
+    <th>Framework</th>
   </tr>
 </table>
 
