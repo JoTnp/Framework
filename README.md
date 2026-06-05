@@ -1,14 +1,3 @@
-html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<title>IOT (Internet of Things)</title>
-
-<meta property="twitter:title" content="IOT (Internet of Things)">
-
 <style>
 body{
     font-family: 'Segoe UI', sans-serif;
@@ -74,102 +63,57 @@ a:hover{
     color:#94a3b8;
 }
 </style>
-</head>
 
-<body>
+<meta property="twitter:title" content="Framework">
 
-<div class="container">
-
-<h1>🌐 IOT</h1>
-<p class="subtitle">Internet of Things</p>
-
-<h2>📖 Definition</h2>
-
-<div class="card">
+<h3> Definition </h3>
 <ul>
-<li><strong>English (IBM)</strong><br>
-"The Internet of Things (IoT) refers to a network of physical devices, vehicles, appliances, and other physical objects that are embedded with sensors, software, and network connectivity, allowing them to collect and share data."
-</li>
-
-<li><strong>English (Cisco)</strong><br>
-"The Internet of Things (IoT) connects ordinary objects to other objects and applications in the cloud, making them intelligent and interactive."
-</li>
-
-<li><strong>Thai</strong><br>
-Internet of Things (IoT) คือ แนวคิดที่ทำให้อุปกรณ์หรือสิ่งของต่าง ๆ รอบตัวสามารถเชื่อมต่อกับอินเทอร์เน็ตได้ โดยใช้อุปกรณ์ตรวจจับ (Sensors) และซอฟต์แวร์ในการเก็บข้อมูล ส่งข้อมูล และสื่อสารกันอัตโนมัติ
-</li>
+  <li><strong>English (Source 1 - TechTarget) :</strong> "In computing and programming, a framework provides a structure on which new software programs and applications can be built."</li>
+  
+  <li><strong>English (Source 2 - Centron) :</strong> "A framework is a software platform that defines the fundamental structure and architecture of an application. It provides pre-built components, standard modules, APIs, and design patterns that developers can use as building blocks."</li>
+  
+  <li><strong>Thai :</strong> Framework คือ ชุดโครงสร้างสำเร็จรูปสำหรับการพัฒนาซอฟต์แวร์ ที่ประกอบด้วยเครื่องมือ ฟังก์ชัน ไลบรารี และแนวทางการพัฒนาที่ถูกออกแบบไว้ล่วงหน้า เพื่อช่วยให้นักพัฒนาสามารถสร้างโปรแกรมหรือเว็บไซต์ได้รวดเร็วขึ้น มีมาตรฐาน และลดการเขียนโค้ดซ้ำในส่วนที่ใช้งานบ่อย</li>
 </ul>
-</div>
 
-<h2>💡 Explanation</h2>
+---
 
-<div class="card">
-<p>
-IoT เป็นเทคโนโลยีที่เชื่อมโยงอุปกรณ์ต่าง ๆ เข้ากับเครือข่ายอินเทอร์เน็ต ทำให้อุปกรณ์เหล่านั้นสามารถรับรู้สภาพแวดล้อม เก็บข้อมูล ประมวลผล และแลกเปลี่ยนข้อมูลระหว่างกันได้โดยอัตโนมัติ
-</p>
-</div>
-
-<div class="card">
-<h3>⚙️ Components</h3>
-
+<h3> Explanation </h3>
 <ul>
-<li>📡 Sensors</li>
-<li>🌐 Network</li>
-<li>☁️ Cloud Computing</li>
-<li>📱 Application</li>
+  <li>Framework เป็นเสมือน "โครงบ้าน" หรือ "แม่แบบ" ที่ช่วยให้นักพัฒนาไม่จำเป็นต้องเริ่มเขียนโปรแกรมใหม่ทั้งหมดจากศูนย์ โดย Framework จะเตรียมโครงสร้างพื้นฐานที่จำเป็นไว้แล้ว เช่น การจัดการฐานข้อมูล การเชื่อมต่อเครือข่าย การจัดการผู้ใช้งาน และระบบความปลอดภัย ทำให้นักพัฒนาสามารถมุ่งเน้นไปที่การพัฒนาฟังก์ชันเฉพาะของโปรเจกต์ได้มากขึ้น</li>
+    
+  <li>Framework มีข้อดีหลายประการ ได้แก่ <br>
+&nbsp; 1. ช่วยลดเวลาในการพัฒนา<br>
+&nbsp;&nbsp; • มีโค้ดและเครื่องมือสำเร็จรูปให้ใช้งาน<br>
+&nbsp;&nbsp; • ไม่ต้องเขียนฟังก์ชันพื้นฐานใหม่ทุกครั้ง<br>
+&nbsp; 2. ช่วยให้โค้ดมีมาตรฐาน<br>
+&nbsp;&nbsp; • ทุกคนในทีมพัฒนาตามโครงสร้างเดียวกัน<br>
+&nbsp;&nbsp; • ง่ายต่อการดูแลและพัฒนาต่อในอนาคต<br>
+&nbsp; 3. เพิ่มความปลอดภัย<br>
+&nbsp;&nbsp; • Framework ยอดนิยมมักมีระบบป้องกันช่องโหว่พื้นฐานมาให้แล้ว<br>
+&nbsp;&nbsp; • ผ่านการทดสอบจากนักพัฒนาจำนวนมาก<br>
+&nbsp; 4. รองรับการขยายระบบ</li>
+&nbsp;&nbsp; • สามารถเพิ่มฟังก์ชันใหม่ได้ง่าย<br>
+&nbsp;&nbsp; • รองรับโปรเจกต์ขนาดเล็กไปจนถึงขนาดใหญ่<br>
+
+  <li>ตัวอย่าง Framework ที่นิยมใช้ <br>
+&nbsp; | ภาษา       | Framework               |
+&nbsp; | ---------- | ----------------------- |
+&nbsp; | Java       | Spring                  |
+&nbsp; | Python     | Django, Flask           |
+&nbsp; | JavaScript | Angular, Next.js        |
+&nbsp; | PHP        | Laravel                 |
+&nbsp; | C#         | .NET Framework, ASP.NET |
+&nbsp; | Mobile     | Flutter, React Native   |
+
+  <li>"Framework คือชุดเครื่องมือและโครงสร้างสำเร็จรูปที่ช่วยให้นักพัฒนาสร้างซอฟต์แวร์ได้อย่างรวดเร็วและเป็นระบบ โดยมีการกำหนดรูปแบบการทำงาน มาตรฐาน และส่วนประกอบพื้นฐานไว้ล่วงหน้า ช่วยลดเวลาในการพัฒนาและลดข้อผิดพลาดในการเขียนโปรแกรม", <strong>(ChatGPT)</strong></li>
+  
+  <li>"Framework เป็นโครงสร้างพื้นฐานสำหรับการพัฒนาซอฟต์แวร์ที่รวมเอาเครื่องมือ ไลบรารี และแนวทางปฏิบัติที่ดีเข้าไว้ด้วยกัน ช่วยให้นักพัฒนาสามารถสร้างแอปพลิเคชันได้เร็วขึ้น มีคุณภาพสูงขึ้น และดูแลรักษาได้ง่ายขึ้น", <strong>(Copilot)</strong></li>
 </ul>
-</div>
 
-<div class="card">
-<h3>🚀 Applications</h3>
+---
 
+<h3> References </h3>
 <ul>
-<li>🏠 Smart Home</li>
-<li>🏙️ Smart City</li>
-<li>❤️ Smart Healthcare</li>
-<li>🌱 Smart Farming</li>
-<li>🏭 Industrial IoT</li>
+  <li><a href="https://www.techtarget.com/">TechTarget - What is a Framework?</a></li>
+  <li><a href="https://www.centron.de/">Centron. What is a Framework?</a></li>
 </ul>
-</div>
-
-<div class="card">
-<h3>🤖 AI Definitions</h3>
-
-<p>
-<strong>ChatGPT:</strong>
-"IoT เป็นเทคโนโลยีที่ช่วยให้อุปกรณ์ต่าง ๆ สามารถสื่อสารและแลกเปลี่ยนข้อมูลผ่านอินเทอร์เน็ตได้โดยอัตโนมัติ"
-</p>
-
-<p>
-<strong>Copilot:</strong>
-"Internet of Things คือเครือข่ายของอุปกรณ์ที่เชื่อมต่อถึงกันผ่านอินเทอร์เน็ต สามารถเก็บข้อมูล วิเคราะห์ และตอบสนองต่อสถานการณ์ต่าง ๆ ได้แบบเรียลไทม์"
-</p>
-</div>
-
-<h2>📚 References</h2>
-
-<div class="card">
-<ul>
-<li>
-<a href="https://www.cisco.com/" target="_blank">
-Cisco - What is IoT
-</a>
-</li>
-
-<li>
-<a href="https://www.ibm.com/us-en" target="_blank">
-IBM - What is IoT
-</a>
-</li>
-</ul>
-</div>
-
-<div class="footer">
-Made by Tanapat Oumphed | GitHub Pages
-</div>
-
-</div>
-
-</body>
-</html>
-```
