@@ -63,8 +63,16 @@ a:hover{
     color:#94a3b8;
 }
 
-.th{
-    color:#000000;
+table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+}
+
+th {
+    background-color: #1e293b;
+    color: #6EC6FF;
+    padding: 12px;
 }
     
 </style>
