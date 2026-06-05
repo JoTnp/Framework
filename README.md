@@ -96,19 +96,18 @@ a:hover{
 &nbsp;&nbsp; • รองรับโปรเจกต์ขนาดเล็กไปจนถึงขนาดใหญ่<br>
 
   <li>ตัวอย่าง Framework ที่นิยมใช้ <br>
-&nbsp; | ภาษา       | Framework               | <br>
-&nbsp; | ---------- | ----------------------- | <br>
-&nbsp; | Java       | Spring                  | <br>
-&nbsp; | Python     | Django, Flask           | <br>
-&nbsp; | JavaScript | Angular, Next.js        | <br>
-&nbsp; | PHP        | Laravel                 | <br>
-&nbsp; | C#         | .NET Framework, ASP.NET | <br>
-&nbsp; | Mobile     | Flutter, React Native   | <br>
+&nbsp; | ภาษา &nbsp; | Framework &nbsp; | <br>
+&nbsp; | ---------- &nbsp; | ----------------------- &nbsp; | <br>
+&nbsp; | Java &nbsp; | Spring &nbsp; | <br>
+&nbsp; | Python &nbsp; | Django, Flask &nbsp; | <br>
+&nbsp; | JavaScript &nbsp; | Angular, Next.js &nbsp; | <br>
+&nbsp; | PHP &nbsp; | Laravel &nbsp; | <br>
+&nbsp; | C# &nbsp; | .NET Framework, ASP.NET &nbsp; | <br>
+&nbsp; | Mobile &nbsp; | Flutter, React Native &nbsp; | <br>
 
   <li>"Framework คือชุดเครื่องมือและโครงสร้างสำเร็จรูปที่ช่วยให้นักพัฒนาสร้างซอฟต์แวร์ได้อย่างรวดเร็วและเป็นระบบ โดยมีการกำหนดรูปแบบการทำงาน มาตรฐาน และส่วนประกอบพื้นฐานไว้ล่วงหน้า ช่วยลดเวลาในการพัฒนาและลดข้อผิดพลาดในการเขียนโปรแกรม", <strong>(ChatGPT)</strong></li>
   
   <li>"Framework เป็นโครงสร้างพื้นฐานสำหรับการพัฒนาซอฟต์แวร์ที่รวมเอาเครื่องมือ ไลบรารี และแนวทางปฏิบัติที่ดีเข้าไว้ด้วยกัน ช่วยให้นักพัฒนาสามารถสร้างแอปพลิเคชันได้เร็วขึ้น มีคุณภาพสูงขึ้น และดูแลรักษาได้ง่ายขึ้น", <strong>(Copilot)</strong></li>
-</ul>
 
 ---
 
