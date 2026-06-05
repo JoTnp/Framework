@@ -91,19 +91,19 @@ a:hover{
 &nbsp; 3. เพิ่มความปลอดภัย<br>
 &nbsp;&nbsp; • Framework ยอดนิยมมักมีระบบป้องกันช่องโหว่พื้นฐานมาให้แล้ว<br>
 &nbsp;&nbsp; • ผ่านการทดสอบจากนักพัฒนาจำนวนมาก<br>
-&nbsp; 4. รองรับการขยายระบบ</li>
+&nbsp; 4. รองรับการขยายระบบ<br>
 &nbsp;&nbsp; • สามารถเพิ่มฟังก์ชันใหม่ได้ง่าย<br>
 &nbsp;&nbsp; • รองรับโปรเจกต์ขนาดเล็กไปจนถึงขนาดใหญ่<br>
 
   <li>ตัวอย่าง Framework ที่นิยมใช้ <br>
-&nbsp; | ภาษา       | Framework               |
-&nbsp; | ---------- | ----------------------- |
-&nbsp; | Java       | Spring                  |
-&nbsp; | Python     | Django, Flask           |
-&nbsp; | JavaScript | Angular, Next.js        |
-&nbsp; | PHP        | Laravel                 |
-&nbsp; | C#         | .NET Framework, ASP.NET |
-&nbsp; | Mobile     | Flutter, React Native   |
+&nbsp; | ภาษา       | Framework               | <br>
+&nbsp; | ---------- | ----------------------- | <br>
+&nbsp; | Java       | Spring                  | <br>
+&nbsp; | Python     | Django, Flask           | <br>
+&nbsp; | JavaScript | Angular, Next.js        | <br>
+&nbsp; | PHP        | Laravel                 | <br>
+&nbsp; | C#         | .NET Framework, ASP.NET | <br>
+&nbsp; | Mobile     | Flutter, React Native   | <br>
 
   <li>"Framework คือชุดเครื่องมือและโครงสร้างสำเร็จรูปที่ช่วยให้นักพัฒนาสร้างซอฟต์แวร์ได้อย่างรวดเร็วและเป็นระบบ โดยมีการกำหนดรูปแบบการทำงาน มาตรฐาน และส่วนประกอบพื้นฐานไว้ล่วงหน้า ช่วยลดเวลาในการพัฒนาและลดข้อผิดพลาดในการเขียนโปรแกรม", <strong>(ChatGPT)</strong></li>
   
