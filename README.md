@@ -95,12 +95,12 @@ a:hover{
 &nbsp;&nbsp; • สามารถเพิ่มฟังก์ชันใหม่ได้ง่าย<br>
 &nbsp;&nbsp; • รองรับโปรเจกต์ขนาดเล็กไปจนถึงขนาดใหญ่<br>
 
-  <li>ตัวอย่าง Framework ที่นิยมใช้ </li><br>
-<table color ="135deg,#0f172a,#1e293b">
-  <tr><font color ="Black">
-    <th>ภาษา</th>
-    <th>Framework</th>
-  </font></tr>
+  <li>ตัวอย่าง Framework ที่นิยมใช้ </li>
+<table>
+  <tr>
+    <th><font color ="Black">ภาษา</font></th>
+    <th></font>Framework</table></th>
+  </tr>
 </table>
       
 &nbsp; | ภาษา &nbsp; | Framework &nbsp; | <br>
