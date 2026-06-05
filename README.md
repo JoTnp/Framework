@@ -114,6 +114,22 @@ th {
     <th>ภาษา</th>
     <th>Framework</th>
   </tr>
+  <tr>
+    <th>JavaScript</th>
+    <th>Angular, Next.js</th>
+  </tr>
+  <tr>
+    <th>Python</th>
+    <th>Django, Flask</th>
+  </tr>
+  <tr>
+    <th>C#</th>
+    <th>.NET Framework, ASP.NET</th>
+  </tr>
+  <tr>
+    <th>PHP</th>
+    <th>Laravel</th>
+  </tr>
 </table>
 
   <li>"Framework คือชุดเครื่องมือและโครงสร้างสำเร็จรูปที่ช่วยให้นักพัฒนาสร้างซอฟต์แวร์ได้อย่างรวดเร็วและเป็นระบบ โดยมีการกำหนดรูปแบบการทำงาน มาตรฐาน และส่วนประกอบพื้นฐานไว้ล่วงหน้า ช่วยลดเวลาในการพัฒนาและลดข้อผิดพลาดในการเขียนโปรแกรม", <strong>(ChatGPT)</strong></li>
