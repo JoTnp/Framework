@@ -62,6 +62,11 @@ a:hover{
     margin-top:40px;
     color:#94a3b8;
 }
+
+.th{
+    color:#000000;
+}
+    
 </style>
 
 <meta property="twitter:title" content="Framework">
@@ -98,19 +103,10 @@ a:hover{
   <li>ตัวอย่าง Framework ที่นิยมใช้ </li>
 <table>
   <tr>
-    <th><font color ="Black">ภาษา</font></th>
-    <th></font>Framework</table></th>
+    <th>ภาษา</font></th>
+    <th>Framework</table></th>
   </tr>
 </table>
-      
-&nbsp; | ภาษา &nbsp; | Framework &nbsp; | <br>
-&nbsp; | ---------- &nbsp; | ----------------------- &nbsp; | <br>
-&nbsp; | Java &nbsp; | Spring &nbsp; | <br>
-&nbsp; | Python &nbsp; | Django, Flask &nbsp; | <br>
-&nbsp; | JavaScript &nbsp; | Angular, Next.js &nbsp; | <br>
-&nbsp; | PHP &nbsp; | Laravel &nbsp; | <br>
-&nbsp; | C# &nbsp; | .NET Framework, ASP.NET &nbsp; | <br>
-&nbsp; | Mobile &nbsp; | Flutter, React Native &nbsp; | <br>
 
   <li>"Framework คือชุดเครื่องมือและโครงสร้างสำเร็จรูปที่ช่วยให้นักพัฒนาสร้างซอฟต์แวร์ได้อย่างรวดเร็วและเป็นระบบ โดยมีการกำหนดรูปแบบการทำงาน มาตรฐาน และส่วนประกอบพื้นฐานไว้ล่วงหน้า ช่วยลดเวลาในการพัฒนาและลดข้อผิดพลาดในการเขียนโปรแกรม", <strong>(ChatGPT)</strong></li>
   
