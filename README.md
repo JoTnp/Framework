@@ -96,11 +96,11 @@ a:hover{
 &nbsp;&nbsp; • รองรับโปรเจกต์ขนาดเล็กไปจนถึงขนาดใหญ่<br>
 
   <li>ตัวอย่าง Framework ที่นิยมใช้ <br>
-<table>
-  <tr>
+<table color ="135deg,#0f172a,#1e293b">
+  <tr><font color ="Black">
     <th>ภาษา</th>
     <th>Framework</th>
-  </tr>
+  </tr></font>
   <tr>
     <td>Java</td>
     <td>Spring</td>
