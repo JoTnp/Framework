@@ -85,7 +85,7 @@ th {
   
   <li><strong>English (Source 2 - Centron) :</strong> "A framework is a software platform that defines the fundamental structure and architecture of an application. It provides pre-built components, standard modules, APIs, and design patterns that developers can use as building blocks."</li>
   
-  <li><strong>Thai :</strong> Framework คือ ชุดโครงสร้างสำเร็จรูปสำหรับการพัฒนาซอฟต์แวร์ ที่ประกอบด้วยเครื่องมือ ฟังก์ชัน ไลบรารี และแนวทางการพัฒนาที่ถูกออกแบบไว้ล่วงหน้า เพื่อช่วยให้นักพัฒนาสามารถสร้างโปรแกรมหรือเว็บไซต์ได้รวดเร็วขึ้น มีมาตรฐาน และลดการเขียนโค้ดซ้ำในส่วนที่ใช้งานบ่อย</li>
+  <li><strong>Thai :</strong> Framework คือ โครงสร้างหรือชุดเครื่องมือพื้นฐานที่เตรียมไว้สำหรับการพัฒนาซอฟต์แวร์ ช่วยกำหนดรูปแบบการทำงาน สถาปัตยกรรม และมีองค์ประกอบสำเร็จรูป เช่น API โมดูล และไลบรารี เพื่อให้นักพัฒนาสามารถสร้างแอปพลิเคชันได้รวดเร็ว มีมาตรฐาน และลดการเขียนโค้ดซ้ำจากศูนย์ โดยยังสามารถขยายและปรับแต่งให้ตรงกับความต้องการของโครงการได้</li>
 </ul>
 
 ---
