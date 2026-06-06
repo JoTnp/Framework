@@ -83,7 +83,7 @@ th {
 <ul>
   <li><strong>English (Source 1 - TechTarget) :</strong> "In computing and programming, a framework provides a structure on which new software programs and applications can be built."</li>
   
-  <li><strong>English (Source 2 - Centron) :</strong> "A framework is a software platform that defines the fundamental structure and architecture of an application. It provides pre-built components, standard modules, APIs, and design patterns that developers can use as building blocks."</li>
+  <li><strong>English (Source 2 - Centron) :</strong> "A framework provides a structure on which new software programs and applications can be built. It may include tools for code development, testing, debugging, reusable templates, and other prebuilt elements that help developers create software faster and with fewer errors."</li>
   
   <li><strong>Thai :</strong> Framework คือ โครงสร้างหรือชุดเครื่องมือพื้นฐานที่เตรียมไว้สำหรับการพัฒนาซอฟต์แวร์ ช่วยกำหนดรูปแบบการทำงาน สถาปัตยกรรม และมีองค์ประกอบสำเร็จรูป เช่น API โมดูล และไลบรารี เพื่อให้นักพัฒนาสามารถสร้างแอปพลิเคชันได้รวดเร็ว มีมาตรฐาน และลดการเขียนโค้ดซ้ำจากศูนย์ โดยยังสามารถขยายและปรับแต่งให้ตรงกับความต้องการของโครงการได้</li>
 </ul>
